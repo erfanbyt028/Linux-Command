@@ -23,39 +23,7 @@
 20. grap
 21. awk
 
----
-### [ File bash (bash فایل) ]( #file-bash-bash-فایل )
-1. Create file bash (bash ساخت فایل)
 
----
-### [ Commend in bash file (دستورات درون فایل bash) ]( #commend-in-bash-file-bash-دستورات-درون-فایل )
-1. Add Commentator (اضاف کردن مفسر)
-2. Create variable (ایجاد متغیر)
-3. Variable value (مقدار متغیر)
-4. Print text (چاپ متن)
-5. mathematical operations (عملیات ریاضی)
-6. Different data type (نوع داده ای متفاوت)
-7. if
-8. for
-9. while
-10. do wihile
-11. read
-
----
-### [ Additional Command (دستورات تکمیلی) ]( #Additional-Command-دستورات-تکمیلی )
-1. Network (شبکه)
-2. update (اپدیت)
-3. upgrad (اپگرید)
-4. install app (نصب برنامه)
-5. uninstall app (حذف برنامه)
-6. root (ریشه)
-
----
-### [ Fedora Linux web terminal (ترمینال تحت وب لینوکس فدورا) ]( #Fedora-Linux-web-terminal-ترمینال-تحت-وب-لینوکس-فدورا )
-1. terminal
-
-
-#
 
 # linux commend (دستورات لینوکس)
 
