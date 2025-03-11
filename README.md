@@ -497,14 +497,4 @@ sudo su -
 ```
 
 
-#
-
-# Fedora Linux web terminal (ترمینال تحت وب لینوکس فدورا)
-
-### 1. terminal
-A simulated terminal from Linux Fedora for practice (یک ترمینال شبیه سازی شده از لینوکس فدورا برای تمرین)
-
-*[terminal](https://bellard.org/jslinux/vm.html?cpu=riscv64&url=fedora33-riscv.cfg&mem=256)*
-
-#
 
